@@ -1,0 +1,12 @@
+webDriverManager.chorme driver().setup();
+chormeDriver odriver=new chorme Driver();
+webDriverManager.firefoxDriver().setup();
+//open the app
+odriver.get("https;//app.hubspot.com/login");
+odriver. manager().window().maximize();
+thread.sleep(3000);
+weebElement userName=odriver.findElement(By.id("user name");
+userName.send keys("accenture.findElement(By.id("user name");
+userName.send keys("nucot@gmail.com");
+userName.send keys("Suneelvatambeti14@gmail.com");
+userName.Sleep
